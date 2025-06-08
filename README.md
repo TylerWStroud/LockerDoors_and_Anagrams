@@ -1,16 +1,19 @@
-# ALGORITHM DESIGN BLOCK PRACTICE
+# Project Name
 
-All projects come prefaced with a standard algorithm design block. Both design blocks adhere to the following template:<br>
+A brief description of your project goes here. Explain what it does, who it's for, and why it's useful.
 
-<p>=================================<br>
-Algorithm Design Block<br>
-Algorithm Title: title here<br>
-*Logical Steps: 
-   *Step 1: ... 
-   *Step 2: ... 
-   *Step n: ... 
+![Project Screenshot](screenshot.png) *(Optional: Add a screenshot or logo)*
 
-Pseudocode Syntax:<br>
-    pseudocode here<br>
-=================================<br></p>
+## Features
 
+- List the key features of your project
+- Keep it concise but informative
+- Use bullet points for readability
+
+## Installation
+
+```bash
+# Show how to install the project
+npm install your-package
+# or
+pip install your-package

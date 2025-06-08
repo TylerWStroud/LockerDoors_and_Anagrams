@@ -29,7 +29,7 @@ On the ith pass, i = 1, 2, . . . , n, you toggle the door of every ith locker: i
 if it is open, you close it. After the last pass, which locker doors are open, and which are closed? 
 ```
 User is prompted with a menu and my algorithm takes care of the rest
-![menu image](media/menu1.png)
+![menu image](media/menu image.png)
 
 ## Anagram Test
 User is prompted with a menu. Option 1 asks for two words or phrases. Option 2 implements my anagram test algorithm. 

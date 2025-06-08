@@ -1,10 +1,3 @@
-// Name: Tyler Stroud
-// Class: CS 4306
-// Term: Summer 2025
-// Instructor: Dr. Haddad
-// Assignment: 01
-// IDE: IntelliJ
-
 /*****************************************************    
  * Algorithm Design Block
  

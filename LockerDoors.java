@@ -61,6 +61,7 @@ public class LockerDoors{
         while(!menuClose){
             try {
                 System.out.print("""
+                                 
                                     -----------------MAIN MENU--------------
                                     1. Read number of lockers (integer value)
                                     2. Run algorithm and display output
@@ -136,8 +137,10 @@ public class LockerDoors{
             "Number of lockers:", lockers.size(),
                     "Open lockers:", openLockers,
                     "Closed lockers:", closedLockers,
-                    "Comparisons:", comparisons
-        );
+                    "Comparisons:", comparisons);
+        for (int i = 1; i < lockers.size(); i++) {
+            System.out.printf("Locker %d: %s%n", i, lockers.get(i - 1).getState());
+        }
     }
 }
 
